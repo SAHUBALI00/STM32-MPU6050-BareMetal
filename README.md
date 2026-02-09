@@ -17,6 +17,6 @@ The Solution: I performed a deep-dive into the reference manual to understand th
 Key Skills Demonstrated
 C Programming: Volatile pointers, bitwise operations, and memory mapping.
 
-Debugging: Protocol analysis and real-time telemetry via UART.
+Debugging: Protocol analysis and real-time telemetry via UART(written to configure serialPort using UART of STM32, code :serialPort.h).
 
 Hardware Knowledge: Understanding of Open-Drain configurations and internal pull-up logic.
